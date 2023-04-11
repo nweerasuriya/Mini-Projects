@@ -1,0 +1,17 @@
+Channel,Negative,Positive,Uncertainty,Litigious,Constraining
+bbchealth,2058,347,320,237,76
+cbchealth,4289,884,920,738,258
+cnnhealth,2729,924,666,356,132
+everydayhealth,1628,972,517,102,78
+foxnewshealth,1154,385,492,161,65
+gdnhealthcare,2501,1104,330,382,116
+goodhealth,3850,3968,985,278,162
+KaiserHealthNews,2772,612,560,970,217
+latimeshealth,2651,962,1018,445,194
+msnhealthnews,2013,526,1556,223,99
+NBChealth,3061,610,820,265,231
+nprhealth,2928,789,867,501,193
+nytimeshealth,3828,1145,1089,652,360
+reuters_health,3530,836,955,721,242
+usnewshealth,672,479,179,44,45
+wsjhealth,4051,812,452,921,164
