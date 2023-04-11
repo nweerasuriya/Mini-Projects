@@ -5,10 +5,11 @@ A study on the 2020 Census data and historic data to explore the trend in popula
 #### Initial Aims
 1. Produce visualisations which highlight the importance of the problem and it's consequences.
 2. Forecast decades ahead to predict the shift in balance for number of working adults vs children and elderly in the population.
-3. Compare with other countries and possibly make predictions for the UK
+3. Compare with other countries and possibly make predictions for the UK.
 
 
 #### 1) Visualisations show the steadily declining population between 15-64 (working age) and rapidly increasing elderly population
+
 ![image](https://user-images.githubusercontent.com/65176466/230373791-1c85dae3-dab1-4a1b-a50f-d1f6df691940.png)
 
 ![image](https://user-images.githubusercontent.com/65176466/230373933-64bd5569-d784-4d85-9736-1bad5551fc07.png)
