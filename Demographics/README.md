@@ -12,6 +12,7 @@ A study on the 2020 Census data and historic data to explore the trend in popula
 
 ![image](https://user-images.githubusercontent.com/65176466/231733131-24c28e6f-4833-47df-85d5-2a56a3c54aec.png)
 
+
 ![image](https://user-images.githubusercontent.com/65176466/230373933-64bd5569-d784-4d85-9736-1bad5551fc07.png)
 
 ### 2)
