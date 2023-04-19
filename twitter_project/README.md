@@ -21,7 +21,9 @@ Used the LDA Module in Azure Designer to split tweets into 4 topics
 
 ##### VADER Sentiment Analysis
 -Group dataset by channel and year independently
+
 -Run VADER analysis on grouped tweets to produce sentiment/polarity score
+
 -Sentiment score is between -1 (negative sentiment) and +1 (positive sentiment)
 
 
