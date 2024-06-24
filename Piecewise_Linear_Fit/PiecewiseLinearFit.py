@@ -75,6 +75,7 @@ def find_optimal_pwlf(
         complexity_penalty: complexity penalty for the BIC
         max_breaks: maximum number of breaks to consider
         outlier_threshold: threshold for identifying outliers
+        plot_results: check if results should be plotted
 
     Returns:
         optimal_breaks: optimal number of breaks
